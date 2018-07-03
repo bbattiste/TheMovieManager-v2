@@ -232,7 +232,6 @@ extension TMDBClient {
                 }
             }
         }
-        
         return task
     }
     
